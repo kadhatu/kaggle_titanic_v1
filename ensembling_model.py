@@ -1,4 +1,4 @@
-# https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling #
+# submission gets 0.78468 public score
 # coding: utf-8
 
 # import modules
